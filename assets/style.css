@@ -1,3 +1,16 @@
-body {
-    /* background-color: #002d2b; */
+
+
+/* 
+.color1 { #160d18 };
+.color2 { #23145b };
+.color3 { #09456c };
+.color4 { #026f6e };
+.color5 { #1ca39e }; 
+*/
+
+nav {
+    background-color: #002d2b;
+} 
+nav div {
+    background-color: #002d2b;
 }
